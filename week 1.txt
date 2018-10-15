@@ -1,0 +1,131 @@
+DT9426-master ASSIGNMENT WEEK 1 UPDATED
+
+Introduction
+A programming language is a formal language, which comprises a set of instructions used to produce various kinds of output. Programming languages are used to create programs that implement specific algorithms. there are lots pf prgramming languages used today, and they include some of the following java,python,Javascript,c++ e.t.c
+
+PART A
+
+What three key features of python makes it one of the most popular languages for programming
+	Python is one among the most popular dynamic programming languages that is being used today. I am going to list 3 features which makes python on of the most popular languages for programming, the include include:
+1.It uses the elegant syntax; hence, the programs are easier to read
+2.The large standard library included in this language supports several programming tasks like searching text along with systematic expressions, linking to Web servers, modifying and reading files.
+	It provides large standard libraries that include the areas like string operations, Internet, web service tools, operating system interfaces and protocols. Most of the highly used programming tasks are already scripted into it that limits the length of the codes to be written in Python.
+
+3.The interactive mode of Python makes its simple to test code’s short snippets. It also comprises the bundles development environment known as IDLE(integrated development and learning environment.)
+
+Problems faced by python as a programming language
+1. Weak in Mobile Computing
+Python has made its presence on many desktop and server platforms, but it is seen as a weak language for mobile computing. This is the reason very few mobile applications are built in it like Carbonnelle. 
+2.Python is slower than C because it is an interpreted language.
+3.Python is not a good choice for memory intensive tasks.
+
+What 3 major software /applications are built on python
+ Three software/applications built on python include:
+1. Instagram
+2. bitTorrent
+3. Spotify
+
+
+What relationship does python have with GIS
+	Python is a scripting language incorporated into many GIS software applications and is used to automate geoprocessing tasks. 
+•	Automation makes work easier. Once you automate a process, you don't have to put in as much effort remembering which tools to use or the proper sequence in which they should be run.
+•	Automation makes work faster. A computer can open and execute tools in sequence much faster than you can accomplish the same task by pointing and clicking.
+•	Automation makes work more accurate. Any time you perform a manual task on a computer, there is a chance for error. The chance multiplies with the number and complexity of the steps in your analysis, as well as the fatigue incurred by repeating the task many times. In contrast, once an automated task is configured, a computer can be trusted to perform the same sequence of steps every time for a potentially endless number of cycles.
+
+
+
+
+
+
+#assign variables
+r = 20
+Π = 3.142
+
+#assign formular V = 4/3.Π.r3
+20
+V = 4/3 * Π * (r)**3
+print(str(V) + "  YAHOO!!")
+
+
+
+
+#assign variables
+r = input()
+#assign variable as r
+x = int(r)
+Π = 3.142
+
+#assign formular V = 4/3.Π.r3
+V = 4/3 * Π * (x)**3
+
+print(str(V) + "  YAHOO!!")
+
+
+
+
+#assign variables
+r = input("radius")
+h = input("height")
+π = 3.142
+
+
+#assign variables as h and r
+a = int(r)
+b = int(h)
+
+#assign variables as V=πr2h
+
+V = π * (a)**2 * (b)
+
+print(str(V) + "  YAHOO!!") 
+
+
+
+
+
+#assign variables
+r = input("radius")
+h = input("height")
+π = 3.142
+#assign variables  as h and r
+a = int(r)
+b = int(h)
+#assign variables as V=πr2h/3
+
+V = π * (a)**2 * (b) / 3
+print(str(V) + " YAHOO!!")
+
+
+
+
+#assign variables 
+trip_A = input("distance (km)=") 
+a = int(trip_A) 
+trip_B =input("distance (km)=") 
+b = int(trip_B) 
+f = input("fuel used (litres)=") 
+c = int(f)
+e = (a - b)/c
+
+print(str(e) + "Yahoo!!!")
+
+
+
+
+#assign variables
+F = input("fahrenhite")
+a = float(F)
+#write formula c = (F) - 32 * 5 / 9
+c = ((a - 32)) * 5 / 9
+print(str(c) + "°C Yahoo")
+
+
+
+
+#assign variables
+C = input("celsius")
+b = float(C)
+#write formula F = (c * 9/5 + 32
+f = ((b * 9) / 5) + 32
+     
+print(str(f) + "°f yahoo")
